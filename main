@@ -5,7 +5,7 @@
 
 import os
 
-filePath = "authorizedVehicles.txt"
+filePath = "authorizedVehiclesList.txt"
 
 def vehiclesFile():
 
